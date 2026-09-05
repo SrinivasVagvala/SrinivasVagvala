@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I'm Srinivas Vagvala
+<p align="center">I am a current CS Student at Georgia Tech concentrating in Artificial Intelligence & Systems and Architecture
+<p align="center"> I am experienced in Python, C++, Java, HTML and am currently exploring machine learning and forward developed engineering. 
+<p align="center"> Connect with me at svagvala3@gatech.edu. 
 
 <!--
 **SrinivasVagvala/SrinivasVagvala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
